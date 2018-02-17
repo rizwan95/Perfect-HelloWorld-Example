@@ -33,7 +33,7 @@ You will get an output like this
 
 * Clone the repository using the following command.
 
-<pre><code>git clone https://github.com/PerfectlySoft/PerfectTemplate.git</code></pre>
+<pre><code>git clone https://github.com/rizwan95/Perfect-HelloWorld-Example.git</code></pre>
 
 * Navigate to the directory where you have cloned the repository.
 
