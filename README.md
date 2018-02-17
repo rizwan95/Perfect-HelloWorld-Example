@@ -15,7 +15,7 @@ This project also builds with Swift Package Manager. You can run the project eit
 
 <pre><code>git clone https://github.com/rizwan95/Perfect-HelloWorld-Example.git</code></pre>
 
-* Alternatively, you can download the repository from [here.](https://github.com/rizwan95/Perfect-HelloWorld/archive/master.zip "Perfect- HelloWorld example")
+* Alternatively, you can download the repository from [here.](https://github.com/rizwan95/Perfect-HelloWorld-Example/archive/master.zip "Perfect- HelloWorld example")
 
 * Navigate to the directory where you have cloned/downloaded the repository.
 
