@@ -1,4 +1,4 @@
-# Perfect-HelloWorld
+# Perfect-HelloWorld-Example
 
 When we start learning any programming language, our first program will be displaying "Hello World". Similarly, this project is all about creating a HTTPServer using Perfect framework and returning "Hello World!!!" as a response. 
 
@@ -23,7 +23,7 @@ This project also builds with Swift Package Manager. You can run the project eit
 
 <pre><code>swift package generate-xcodeproj</code></pre>
 
-* Open <code>Perfect-HelloWorld.xcodeproj</code> build and run. 
+* Open <code>Perfect-HelloWorld-Example.xcodeproj</code> build and run. 
 
 You will get an output like this
 
@@ -44,7 +44,7 @@ You will get an output like this
 <pre><code>swift build</code></pre>
 
 * Execute the project. 
-<pre><code>.build/debug/Perfect-HelloWorld</code></pre>
+<pre><code>.build/debug/Perfect-HelloWorld-Example</code></pre>
 
 You will get an output like this
 
