@@ -1,3 +1,9 @@
+[![GitHub issues](https://img.shields.io/github/issues/rizwan95/Perfect-HelloWorld-Example.svg)](https://github.com/rizwan95/Perfect-HelloWorld-Example/issues)
+[![GitHub forks](https://img.shields.io/github/forks/rizwan95/Perfect-HelloWorld-Example.svg)](https://github.com/rizwan95/Perfect-HelloWorld-Example/network)
+[![GitHub stars](https://img.shields.io/github/stars/rizwan95/Perfect-HelloWorld-Example.svg)](https://github.com/rizwan95/Perfect-HelloWorld-Example/stargazers)
+[![GitHub license](https://img.shields.io/github/license/rizwan95/Perfect-HelloWorld-Example.svg)](https://github.com/rizwan95/Perfect-HelloWorld-Example/blob/master/LICENSE)[![Twitter](https://img.shields.io/twitter/url/https/github.com/rizwan95/Perfect-HelloWorld-Example.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Frizwan95%2FPerfect-HelloWorld-Example)
+
+
 # Perfect-HelloWorld-Example
 
 When we start learning any programming language, our first program will be displaying "Hello World". Similarly, this project is all about creating a HTTPServer using Perfect framework and returning "Hello World!!!" as a response. 
