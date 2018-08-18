@@ -50,7 +50,7 @@ You will get an output like this
 <pre><code>swift build</code></pre>
 
 * Execute the project. 
-<pre><code>.build/debug/Perfect-HelloWorld-Example</code></pre>
+<pre><code>.build/debug/Perfect-HelloWorld</code></pre>
 
 You will get an output like this
 
